@@ -1,4 +1,4 @@
-# Car-and-lisence-plate-detection
+# Car-and-lisence-plate-detection and deployment
 ## **I have used yolov3 for the project**<br>
 # -----------------------
 ## Structure
