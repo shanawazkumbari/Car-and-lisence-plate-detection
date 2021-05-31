@@ -5,6 +5,7 @@
  -- **image_and_annotations_zip_file** folder contains the zip file which contains the images and annotations txt files<br>
  -- **weights_and_config_files** folder contains my trained weights and config file<br>
  -- **Copy_of_liscence_yolov3.ipynb** is the file which contains the entire code<br>
+ -- **prediction** folder contains my predicted images by the model
  -- **deployment** folder conatains all the files neccessary to deploy model using flask
 # -----------------------
 
